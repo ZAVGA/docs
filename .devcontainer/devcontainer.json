@@ -71,4 +71,5 @@
     "memory": "16gb",
     "cpus": "4"
   }
-}
+}"ghcr.io/audacioustux/devcontainers/aws-sam-cli
+:1": {}
